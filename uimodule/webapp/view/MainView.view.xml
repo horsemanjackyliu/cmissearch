@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.sap.cmissearch4.controller.MainView" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <VBox id="v1" >
+        <Button id="b1" text="Click Me" press="pressButton"></Button>
+        </VBox>
+        </content>
+    </Page>
+</mvc:View>
